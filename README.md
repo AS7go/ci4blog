@@ -1,6 +1,6 @@
 # Изучение CodeIgniter4 на примере Блога
 
-Этот проект представляет собой учебное пособие по CodeIgniter4, основанное на видеоуроках и документации. Цель - создание блога с использованием CodeIgniter4, Docker, PHP, MySQL, phpMyAdmin и Bootstrap 5.
+Этот проект представляет собой учебное пособие по CodeIgniter4, основанное на видеоуроках и документации. Цель - создание блога с использованием CodeIgniter4, XAMPP или Docker, PHP, MySQL, phpMyAdmin и Bootstrap 5.
 
 ## Содержание
 
@@ -19,9 +19,10 @@
 
 ## Первоисточники
 
-* **Видеокурс:** [Ссылка на видеокурс] (https://www.youtube.com/@andrievskii/playlists)
-* **CodeIgniter4 Руководство пользователя:** [Ссылка на руководство пользователя] (https://codeigniter.com/user_guide/index.html)
-* **Первый видеоурок:** [Ссылка на первый урок] (https://www.youtube.com/watch?v=UqSa7JofzwU&list=PLMB6wLyKp7lVhP9tA-ws317TdB3NITiyU)
+* ### Автор выложил все уроки (по этой и другим темам) бесплатно (с возможностью спонсорства) на своем канале [Ссылка на канал](www.youtube.com/@andrievskii) , за что ему огромное спасибо. У него очень хорошие объяснения, много разных тем, и я рекомендую его канал для обучения.
+* **Видеокурс:** [Ссылка на видеокурс](https://www.youtube.com/@andrievskii/playlists)
+* **CodeIgniter4 Руководство пользователя:** [Ссылка на руководство пользователя](https://codeigniter.com/user_guide/index.html)
+* **Первый видеоурок (из 13) по этой теме:** [Ссылка на первый урок](https://www.youtube.com/watch?v=UqSa7JofzwU&list=PLMB6wLyKp7lVhP9tA-ws317TdB3NITiyU) Остальные уроки в его плейлисте.
 
 ## Установка и настройка CodeIgniter4
 
@@ -115,7 +116,7 @@
 
 ### Установка CodeIgniter4
 
-* Описание процесса установки CodeIgniter4 в Руководстве пользователя: [Ссылка на руководство пользователя] (https://codeigniter.com/user_guide/index.html)
+* Описание процесса установки CodeIgniter4 в Руководстве пользователя: [Ссылка на руководство пользователя](https://codeigniter.com/user_guide/index.html)
 
 ### Создание базы данных и миграции
 
